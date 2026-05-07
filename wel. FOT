@@ -1,0 +1,7 @@
+#include<stdio.h>
+
+int main () {
+  printf("welsocome to Fot ,24/25 batch");
+
+return 0;
+}
